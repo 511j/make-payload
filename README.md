@@ -9,6 +9,6 @@ git clone https://github.com/511j/make-payload.git
 cd make-payload
 
 bash install.sh
-or
-./install.sh
+
+enjoy
 ```
