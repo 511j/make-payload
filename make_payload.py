@@ -38,6 +38,7 @@ def make_payload():
     print("Done ..")
     msf = input("To open msfconsole (Y) or to exit (E)..")
     if msf == 'Y':
+        os.system("clear")
         os.system("msfconsole")
     elif msf == 'E':
         exit()
